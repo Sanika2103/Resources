@@ -1,2 +1,3 @@
 # Resources
-This repository contains some amazing tech resources 
+This repository contains Tech Resources to help your learning experiences in a much efficient way specially for beginners. 
+### Happy Learning.
