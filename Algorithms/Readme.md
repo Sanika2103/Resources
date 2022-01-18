@@ -11,5 +11,8 @@
   <h5>5. https://coderbyte.com/<h5>
   <h5>6. https://practice.geeksforgeeks.org/<h5>
     
-    
+  <h3> Blogs<h3>
+   <h5>1. https://www.mdpi.com/journal/algorithms<h5>
+     <h5>2. https://blog.codechef.com/<h5>
+    <h5> 3. https://www.hackerearth.com/blog/algorithms/<h5>
   
