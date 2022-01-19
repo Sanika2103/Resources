@@ -13,3 +13,10 @@
       <h5>4. https://www.cplusplus.com/<h5>
        <h5>5. https://edabit.com/challenges/cpp<h5>
         
+   <h3>Blogs<h3>    
+    <h5>1. https://learncplusplus.org/<h5>
+     <h5>2. https://www.modernescpp.com/<h5>
+      <h5>3. https://www.fluentcpp.com/<h5>
+       <h5>4. https://hackingcpp.com/cpp/blogs.html<h5>
+        <h5>5. https://devblogs.microsoft.com/cppblog/<h5>
+        
