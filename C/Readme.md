@@ -9,6 +9,7 @@
  <h3> Practice Platforms : <h3> 
  <h5>1. https://www.hackerrank.com/domains/c <h5>
  <h5> 2. https://www.codechef.com/c-programming<h5>
+  <h5> 3. https://www.geeksforgeeks.org/c-programming-language/<h5>
 <h3> Blogs : <h3>
 <h5>1. https://c-for-dummies.com/blog/ <h5>
 <h5>2. https://www.c-lang.thiyagaraaj.com/archive/c-blog <h5>
