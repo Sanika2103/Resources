@@ -4,11 +4,11 @@
  <h5> 2. https://www.youtube.com/watch?v=xLetJpcjHS0&list=PLBlnK6fEyqRj9lld8sWIUNwlKfdUoPd1Y</h5>
  <h5> 3. https://www.youtube.com/watch?v=3cU__spdMIw&list=PLxCzCOWd7aiEwaANNt3OqJPVIxwp2ebiT</h5>
   <h5>4. https://www.youtube.com/watch?v=QBrDsG3MTkw&list=PLG9aCp4uE-s334Pe8qACh32TdxsMKqDRU </h5>
-  
+  <h5>5. https://www.youtube.com/watch?v=RBSGKlAvoiM</h5>
   <h3>Practice Platforms</h3>
-  <h5>1. </h5>
-  <h5>2. </h5>
-  <h5>3. </h5>
+  <h5>1. https://www.hackerrank.com/domains/data-structures </h5>
+  <h5>2. https://leetcode.com/problemset/all/</h5>
+  <h5>3. https://practice.geeksforgeeks.org/</h5>
   <h5>4.  </h5>
   
 <h3>Blogs</h3>
