@@ -9,7 +9,7 @@
   <h5>1. https://www.hackerrank.com/domains/data-structures </h5>
   <h5>2. https://leetcode.com/problemset/all/</h5>
   <h5>3. https://practice.geeksforgeeks.org/</h5>
-  <h5>4. https://www.hackerearth.com/practice/data-structures/arrays/1-d/tutorial/ </h5>
+  <h5>4. https://www.hackerearth.com/practice/data-structures/ </h5>
   
 <h3>Blogs</h3>
 <h5>1. <br>
