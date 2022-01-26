@@ -12,8 +12,8 @@
   <h5>4. https://www.hackerearth.com/practice/data-structures/ </h5>
   
 <h3>Blogs</h3>
-<h5>1. <br>
-  2. <br>
-  3. <br>
-  4.  <br>
-  </h5>
+<h5>1. https://codecoda.com/en/blog/entry/understanding-data-structures </h5>
+  <h5>2. https://medium.com/omarelgabrys-blog/algorithms-data-structures-series-85ec94eb8aff</h5>
+  <h5>3. https://www.codingninjas.com/blog/category/data-structures/</h5>
+ <h5> 4. https://www.mygreatlearning.com/blog/data-structures-and-algorithms-in-java/ </h5>
+  
