@@ -2,6 +2,8 @@
 <h3> YouTube<h3>
 <h4>1. https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O<h4>
 <h4>2. https://www.youtube.com/watch?v=8hly31xKli0<h4>
+<h4>3. https://www.youtube.com/watch?v=f5OD9CKrZEw&list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT</h4>
+  <h4>4. https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d</h4>
   
   <h3>Practice Platforms<h3>
   <h4>1. https://www.hackerrank.com/domains/algorithms</h4>
