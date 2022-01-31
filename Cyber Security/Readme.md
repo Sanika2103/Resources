@@ -10,3 +10,9 @@
 <h4>4. https://www.edx.org/course/cyber-security-basics-a-hands-on-approach</h4>
 <h4>5. https://www.edx.org/course/cybersecurity-fundamentals</h4>
 <h4>6. https://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks</h4>
+
+<h3>Blogs</h3>
+<h4>1. https://www.cm-alliance.com/cybersecurity-blog</h4>
+<h4>2. https://www.cshub.com/ </h4>
+<h4>3. https://thehackernews.com/</h4>
+<h4>4. https://www.itproportal.com/</h4>
