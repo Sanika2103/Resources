@@ -16,3 +16,5 @@
 <h4>2. https://www.cshub.com/ </h4>
 <h4>3. https://thehackernews.com/</h4>
 <h4>4. https://www.itproportal.com/</h4>
+<h4>5. https://krebsonsecurity.com/</h4>
+<h4>6. https://www.schneier.com/</h4>
