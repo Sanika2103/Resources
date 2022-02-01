@@ -17,8 +17,8 @@
 <h4>8. https://www.mygreatlearning.com/blog/dbms-tutorial/</h4>
 <h3>Blogs</h3>
 <h4>1. https://www.bmc.com/blogs/dbms-database-management-systems/ </h4>
-<h4>2. </h4>
-<h4>3. </h4>
-<h4>4. </h4>
-<h4>5. </h4>
-<h4>6. </h4>
+<h4>2. http://www.dadbm.com/dbms-blog/</h4>
+<h4>3. http://dbmsmusings.blogspot.com/</h4>
+<h4>4. https://azure.microsoft.com/en-us/blog/topics/database/</h4>
+<h4>5. https://blogs.oracle.com/database/</h4>
+<h4>6. https://www.databaseweekly.com/</h4>
