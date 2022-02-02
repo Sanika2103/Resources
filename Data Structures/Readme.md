@@ -10,7 +10,8 @@
   <h4>2. <a href ="https://www.udemy.com/course/data-structures-part-1-lognacademy/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-lOCA9xmUMoSxA8wP6zEgTQ&utm_medium=udemyads&utm_source=aff-campaign"> Udemy</a></h4>
   <h4>3. https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-and-algorithms-in-java </h4>
   <h4>4. <a href ="https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-n1qLZr86eWj5FonicLs2Lg&utm_medium=udemyads&utm_source=aff-campaign"> Udemy</a></h4>
-  <h4>5.  </h4>
+  <h4>5. https://www.geeksforgeeks.org/data-structures/ </h4>
+  <h4>6. https://code.tutsplus.com/series/data-structures-succinctly-part-1--cms-551</h4>
   
   <h3>Practice Platforms</h3>
   <h4>1. https://www.hackerrank.com/domains/data-structures </h4>
