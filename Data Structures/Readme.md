@@ -5,6 +5,13 @@
  <h4> 3. https://www.youtube.com/watch?v=3cU__spdMIw&list=PLxCzCOWd7aiEwaANNt3OqJPVIxwp2ebiT</h4>
   <h4>4. https://www.youtube.com/watch?v=QBrDsG3MTkw&list=PLG9aCp4uE-s334Pe8qACh32TdxsMKqDRU </h4>
   <h4>5. https://www.youtube.com/watch?v=RBSGKlAvoiM</h4>
+  <h3>Courses/Websites for Data Structures</h3>
+  <h4>1. </h4>
+  <h4>2. </h4>
+  <h4>3. </h4>
+  <h4>4. </h4>
+  <h4>5. </h4>
+  
   <h3>Practice Platforms</h3>
   <h4>1. https://www.hackerrank.com/domains/data-structures </h4>
   <h4>2. https://leetcode.com/problemset/all/</h4>
