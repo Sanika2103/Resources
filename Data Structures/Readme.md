@@ -6,11 +6,11 @@
   <h4>4. https://www.youtube.com/watch?v=QBrDsG3MTkw&list=PLG9aCp4uE-s334Pe8qACh32TdxsMKqDRU </h4>
   <h4>5. https://www.youtube.com/watch?v=RBSGKlAvoiM</h4>
   <h3>Courses/Websites for Data Structures</h3>
-  <h4>1. </h4>
-  <h4>2. </h4>
-  <h4>3. </h4>
-  <h4>4. </h4>
-  <h4>5. </h4>
+  <h4>1. https://www.coursera.org/specializations/data-structures-algorithms</h4>
+  <h4>2. <a href ="https://www.udemy.com/course/data-structures-part-1-lognacademy/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-lOCA9xmUMoSxA8wP6zEgTQ&utm_medium=udemyads&utm_source=aff-campaign"> Udemy</a></h4>
+  <h4>3. https://www.mygreatlearning.com/academy/learn-for-free/courses/data-structures-and-algorithms-in-java </h4>
+  <h4>4. <a href ="https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-n1qLZr86eWj5FonicLs2Lg&utm_medium=udemyads&utm_source=aff-campaign"> Udemy</a></h4>
+  <h4>5.  </h4>
   
   <h3>Practice Platforms</h3>
   <h4>1. https://www.hackerrank.com/domains/data-structures </h4>
