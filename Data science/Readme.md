@@ -14,3 +14,8 @@
 <h4>4. <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM</a></h4>
 <h4>5. <a href="https://classroom.udacity.com/courses/ud359">Udacity</a></h4>
 <h4>6. <a href="https://cognitiveclass.ai/courses/data-science-101">Coginitive Class</a></h4>
+
+<h3>Blogs</h3>
+<h4>1. <a href="http://fivethirtyeight.com/">FiveThirtyEight</a></h4>
+<h4>1. <a href="http://simplystatistics.org/">Simply Statistics</a></h4>
+<h4>1. <a href="http://101.datascience.community/">Data Science 101</a></h4>
