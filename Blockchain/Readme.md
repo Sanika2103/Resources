@@ -1,6 +1,6 @@
 <h2 align="center"> Online Resources</h2>
 <h3>YouTube</h3>
-<h4>1.  <a href="<a href="https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw"> Simply Explained</a> </h4>
+<h4>1.  <a href="https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSbvXWQ7OdgVccdr7Wni5Qw"> Simply Explained</a> </h4>
  <h4> 2. <a href="https://www.youtube.com/playlist?list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL"> Cryptocurrencies</a> </h4>
  <h4> 3. <a href="https://www.youtube.com/watch?v=QCvL-DWcojc"> Edureka</a></h4>
  <h4> 4. <a href="https://www.youtube.com/watch?v=VU59tR982W4&list=PLgPmWS2dQHW-BRQCQCNYgmHUfCN115pn0"> Code Eater</a></h4>
