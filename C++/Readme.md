@@ -15,8 +15,8 @@
         
    <h3>Blogs</h3>    
     <h4>1. <a href="https://learncplusplus.org/"> Learncplusplus</a></h4>
-     <h4>2. <a href=" https://www.modernescpp.com/"> Modernescpp</a></h4>
-      <h4>3. <a href="https://www.fluentcpp.com/"> Fluentcpp</a></h4>
+ <h4>2. <a href="https://www.modernescpp.com/"> Modernescpp</a></h4>
+    <h4>3. <a href="https://www.fluentcpp.com/"> Fluentcpp</a></h4>
        <h4>4. <a href="https://hackingcpp.com/cpp/blogs.html"> Hackingcpp</a></h4>
         <h4>5. <a href="https://devblogs.microsoft.com/cppblog/"> Microsoft</a></h4>
         
