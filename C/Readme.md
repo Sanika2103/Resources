@@ -1,6 +1,6 @@
 <h2 align="center"> Online Resources</h2>
 
-<h4> YouTube Vidoes :</h3>
+<h3> YouTube Vidoes :</h3>
 <h4>1.  <a href="https://www.youtube.com/watch?v=7Dh73z3icd8&list=PLu0W_9lII9aiXlHcLx-mDH1Qul38wD3aR&ab_channel=CodeWithHarry"> CodeWithHarry</a></h4>
 <h4>2.  <a href="https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&ab_channel=NesoAcademy"> Neso Academy</a> </h4>
 <h4>3.  <a href="https://www.youtube.com/watch?v=wKoGImLA2KA&list=PLsyeobzWxl7oBxHp43xQTFrw9f1CDPR6C&ab_channel=Telusko"> Telusko</a> </h4>
