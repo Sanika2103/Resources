@@ -17,6 +17,8 @@
   <h4>3. <a href="https://www.coursera.org/specializations/c-programming?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-u6thIcAtH6mrG6KfI7nt_w&siteID=JVFxdTr9V80-u6thIcAtH6mrG6KfI7nt_w&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80"> Coursera</a></h4>
   <h4>4. <a href="https://www.udemy.com/course/quickstart-guide-c-programming/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-TF04O6qteYDT2221nyzuaw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads"> Udemy</a></h4>
   <h4>5. <a href="https://www.educative.io/courses/learn-c-from-scratch?affiliate_id=5073518643380224"> Educative</a></h4>
+    <h4>6. <a href="https://www.cprogramming.com/tutorial/c-tutorial.html"> cprogramming</a></h4>
+  <h4>7. <a href="https://www.codingunit.com/category/c-tutorials"> CodingUnit</a></h4>
 <h3> Blogs : </h3>
 <h4>1.<a href="https://c-for-dummies.com/blog/"> C-for-dummies</a> </h4>
 <h4>2.<a href="https://www.c-lang.thiyagaraaj.com/archive/c-blog"> C-lang.thiyagaraaj</a> </h4>
