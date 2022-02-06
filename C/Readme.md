@@ -10,6 +10,12 @@
  <h4>1. <a href="https://www.hackerrank.com/domains/c"> Hackerrank</a> </h4>
  <h4> 2. <a href="https://www.codechef.com/c-programming"> Codechef</a></h4>
   <h4> 3. <a href="https://www.geeksforgeeks.org/c-programming-language/"> GeeksforGeeks</a></h4>
+  
+  <h3> Courses/Websites for C : </h3> 
+  <h4>1. <a href="https://www.learn-c.org/"> Codechef</a></h4>
+  <h4>2. <a href="https://www.learn-c.org/"> Codechef</a></h4>
+  <h4>3. <a href="https://www.learn-c.org/"> Codechef</a></h4>
+  <h4>4. <a href="https://www.learn-c.org/"> Codechef</a></h4>
 <h3> Blogs : </h3>
 <h4>1.<a href="https://c-for-dummies.com/blog/"> C-for-dummies</a> </h4>
 <h4>2.<a href="https://www.c-lang.thiyagaraaj.com/archive/c-blog"> C-lang.thiyagaraaj</a> </h4>
