@@ -19,7 +19,10 @@
   <h4>3. <a href="https://www.edx.org/course/introduction-to-c-3?source=aw&awc=6798_1644219373_8adf4e18d8590d2d96ef7ac78e0ee4ba&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=78888_Skimlinks">Edx</a></h4>
   <h4>4. <a href="https://www.educative.io/courses/learn-cpp-from-scratch?affiliate_id=5073518643380224"> Educative</a></h4>
    <h4>5. <a href="https://www.udemy.com/course/c-plus-plus-programming-basics/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-An.Fh9W1BD96Iw7Wc4CV1A&utm_medium=udemyads&utm_source=aff-campaign">Udemy</a></h4>
+  <h4>2. <a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-c"> Great Learning</a></h4>
+ <h4>2. <a href="https://www.udacity.com/course/c-for-programmers--ud210"> Udacity</a></h4>
  
+
    <h3>Blogs</h3>    
   <h4>1. <a href="https://learncplusplus.org/"> Learncplusplus</a></h4>
  <h4>2. <a href="https://www.modernescpp.com/"> Modernescpp</a></h4>
