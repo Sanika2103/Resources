@@ -21,9 +21,9 @@
    <h4>5. <a href="https://www.udemy.com/course/c-plus-plus-programming-basics/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-An.Fh9W1BD96Iw7Wc4CV1A&utm_medium=udemyads&utm_source=aff-campaign">Udemy</a></h4>
  
    <h3>Blogs</h3>    
-    <h4>1. <a href="https://learncplusplus.org/"> Learncplusplus</a></h4>
+  <h4>1. <a href="https://learncplusplus.org/"> Learncplusplus</a></h4>
  <h4>2. <a href="https://www.modernescpp.com/"> Modernescpp</a></h4>
-    <h4>3. <a href="https://www.fluentcpp.com/"> Fluentcpp</a></h4>
-       <h4>4. <a href="https://hackingcpp.com/cpp/blogs.html"> Hackingcpp</a></h4>
-        <h4>5. <a href="https://devblogs.microsoft.com/cppblog/"> Microsoft</a></h4>
+  <h4>3. <a href="https://www.fluentcpp.com/"> Fluentcpp</a></h4>
+  <h4>4. <a href="https://hackingcpp.com/cpp/blogs.html"> Hackingcpp</a></h4>
+   <h4>5. <a href="https://devblogs.microsoft.com/cppblog/"> Microsoft</a></h4>
         
