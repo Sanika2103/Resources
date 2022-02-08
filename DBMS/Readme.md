@@ -1,13 +1,13 @@
 <h2 align="center"> Online Resources</h2>
 <h3>YouTube</h3>
 <h4>1. <a href="https://www.youtube.com/watch?v=kBdlM6hNDAE&list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y"> Gate Smashers</a></h4>
-<h4>2. <a href="https://www.youtube.com/watch?v=6Iu45VZGQDk&list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ"> Gate Smashers</a></h4>
-<h4>3. <a href="https://www.youtube.com/watch?v=T7AxM7Vqvaw&list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc"> Gate Smashers</a></h4>
-<h4>4. <a href="https://www.youtube.com/watch?v=4fkOmtII1io&list=PL9RcWoqXmzaLIhRjV8bKl7krh0AJSHkLw"> Gate Smashers</a></h4>
-<h4>5. <a href="https://www.youtube.com/watch?v=HXV3zeQKqGY"> Gate Smashers</a></h4>
+<h4>2. <a href="https://www.youtube.com/watch?v=6Iu45VZGQDk&list=PLBlnK6fEyqRi_CUQ-FXxgzKQ1dwr_ZJWZ"> Neso Academy</a></h4>
+<h4>3. <a href="https://www.youtube.com/watch?v=T7AxM7Vqvaw&list=PLdo5W4Nhv31b33kF46f9aFjoJPOkdlsRc"> Jenny's Lectures</a></h4>
+<h4>4. <a href="https://www.youtube.com/watch?v=4fkOmtII1io&list=PL9RcWoqXmzaLIhRjV8bKl7krh0AJSHkLw"> Gate Academy Plus</a></h4>
+<h4>5. <a href="https://www.youtube.com/watch?v=HXV3zeQKqGY"> freeCodeCamp</a></h4>
 
 <h3>Courses/Websites for DBMS</h3>
-<h4>1. <a href="https://www.geeksforgeeks.org/dbms/</h4>
+<h4>1. <a href="https://www.geeksforgeeks.org/dbms/"> freeCodeCamp</a></h4>
 <h4>2. <a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/database-management-systems-dbms"> Gate Smashers</a></h4>
 <h4>3. <a href="https://www.coursera.org/learn/database-management"> Gate Smashers</a></h4>
 <h4>4. <a href="https://alison.com/tag/database-management"> Gate Smashers</a></h4>
