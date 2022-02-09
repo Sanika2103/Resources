@@ -18,7 +18,7 @@
 <h3>Blogs</h3>
 <h4>1. <a href="https://www.bmc.com/blogs/dbms-database-management-systems/"> BMC</a> </h4>
 <h4>2. <a href="http://www.dadbm.com/dbms-blog/"> DaDBm</a></h4>
-<h4>3. <a href="http://dbmsmusings.blogspot.com/"> Gate Smashers</a></h4>
-<h4>4. <a href="https://azure.microsoft.com/en-us/blog/topics/database/"> Gate Smashers</a></h4>
-<h4>5. <a href="https://blogs.oracle.com/database/"> Gate Smashers</a></h4>
-<h4>6. <a href="https://www.databaseweekly.com/"> Gate Smashers</a></h4>
+<h4>3. <a href="http://dbmsmusings.blogspot.com/"> DBMS Musings</a></h4>
+<h4>4. <a href="https://azure.microsoft.com/en-us/blog/topics/database/"> Microsoft</a></h4>
+<h4>5. <a href="https://blogs.oracle.com/database/"> Oracle</a></h4>
+<h4>6. <a href="https://www.databaseweekly.com/"> SQL Server Central </a></h4>
