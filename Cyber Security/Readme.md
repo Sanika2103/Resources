@@ -15,6 +15,6 @@
 <h4>1.<a href="https://www.cm-alliance.com/cybersecurity-blog"> Cyber Management Alliance</a></h4>
 <h4>2. <a href="https://www.cshub.com/"> Cyber Security Hub</a> </h4>
 <h4>3. <a href="https://thehackernews.com/"> The Hacker News</a></h4>
-<h4>4. <a href="https://www.itproportal.com/"> Abdul Baari</a></h4>
-<h4>5. <a href="https://krebsonsecurity.com/"> Abdul Baari</a></h4>
-<h4>6. <a href="https://www.schneier.com/"> Abdul Baari</a></h4>
+<h4>4. <a href="https://www.itproportal.com/"> It Pro Portal</a></h4>
+<h4>5. <a href="https://krebsonsecurity.com/"> Krebsonsecurity</a></h4>
+<h4>6. <a href="https://www.schneier.com/"> Schneier on Security</a></h4>
