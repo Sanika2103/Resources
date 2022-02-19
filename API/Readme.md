@@ -11,4 +11,4 @@
 <h4>5. <a href="https://www.udacity.com/course/designing-restful-apis--ud388"> FreeCodeCamp</a></h4>
 <h4>5. <a href="https://www.mygreatlearning.com/api/free-courses?p=2#subject-courses-section"> FreeCodeCamp</a></h4>
 <h4>5. <a href="https://www.coursera.org/courses?query=api"> FreeCodeCamp</a></h4> 
-<h3> BlogsI<h3>
+<h3> Blogs<h3>
