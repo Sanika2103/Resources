@@ -13,6 +13,6 @@
 <h4>5. <a href="https://www.coursera.org/courses?query=api"> Coursera</a></h4> 
 <h3> Blogs<h3>
  <h4>1. <a href="https://developers.google.com/blogger/docs/3.0/using"> Google Developers</a></h4>
-  <h4>2. <a href=" "> FreeCodeCamp</a></h4>
-  <h4>3. <a href=" "> FreeCodeCamp</a></h4>
-  <h4>4. <a href=" "> FreeCodeCamp</a></h4>
+  <h4>2. <a href="https://apievangelist.com/blog/ "> API Evengelist</a></h4>
+  <h4>3. <a href="https://legacydocs.hubspot.com/docs/methods/blogv2/get_blog_posts "> HubSpot</a></h4>
+  <h4>4. <a href="https://nordicapis.com/blog/ "> Nordic APIS</a></h4>
