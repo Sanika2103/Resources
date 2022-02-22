@@ -10,7 +10,7 @@
   <h4>1.<a href="https://www.udemy.com/course/learn-flutter-beginners-course/  "> Udemy</a></h4>
   <h4>2.<a href="https://coursesity.com/course-detail/learn-flutter---beginners-course-  "> Coursesity</a></h4>
   <h4>3.<a href="https://fluttercrashcourse.com/  "> Fluttercrashcourse</a></h4>
-  <h4>4.<a href="  "> Flutterly</a></h4>
-  <h4>5.<a href="  "> Flutterly</a></h4>
+  <h4>4.<a href="https://flutter.dev/learn  "> Flutter</a></h4>
+  <h4>5.<a href="https://hackr.io/tutorials/learn-flutter  "> Hackr</a></h4>
   <h4>6.<a href="  "> Flutterly</a></h4>
 <h3> Blogs </h3>
