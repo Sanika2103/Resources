@@ -14,8 +14,8 @@
   <h4>5.<a href="https://hackr.io/tutorials/learn-flutter  "> Hackr</a></h4>
   
 <h3> Blogs </h3>
-<h4>1.<a href="  "> </a></h4>
-<h4>1.<a href="   "> Udemy</a></h4>
-<h4>1.<a href="  "> Udemy</a></h4>
-<h4>1.<a href="  "> Udemy</a></h4>
+<h4>1.<a href="https://flutterawesome.com/"> Flutter Awesome </a></h4>
+<h4>1.<a href="https://medium.com/flutter-community"> Flutter Community</a></h4>
+<h4>1.<a href="https://medium.com/flutter  "> Flutter</a></h4>
+<h4>1.<a href="https://newsletter.flutterdeveloperweekly.com/"> Flutter Developer Weekly</a></h4>
 <h4>1.<a href="  "> Udemy</a></h4>
