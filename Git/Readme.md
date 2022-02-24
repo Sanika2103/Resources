@@ -8,7 +8,7 @@
 <h4>5. <a href="https://www.youtube.com/watch?v=Uszj_k0DGsg"> freeCodeCamp</a></h4>
 
 <h3>Websites/Courses for Git</h3>
-<h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
+<h4>1. <a href="https://www.cprime.com/resources/blog/the-7-best-git-tutorials-to-get-you-started-quickly/"> cprime</a></h4>
 <h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
 <h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
 <h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
