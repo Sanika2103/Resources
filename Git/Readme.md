@@ -6,3 +6,9 @@
 <h4>3. <a href="https://www.youtube.com/watch?v=b5oQZdzA37I"> Edureka</a></h4>
 <h4>4. <a href="https://www.youtube.com/watch?v=evknSAkUIvs&list=PLu0W_9lII9agwhy658ZPA0MTStKUJTWPi"> CodewithHarry</a></h4>
 <h4>5. <a href="https://www.youtube.com/watch?v=Uszj_k0DGsg"> freeCodeCamp</a></h4>
+
+<h3>Websites/Courses for Git</h3>
+<h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
+<h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
+<h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
+<h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
