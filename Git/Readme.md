@@ -13,4 +13,5 @@
 <h4>3. <a href="https://learngitbranching.js.org/"> Git Branching</a></h4>
 <h4>4. <a href="https://www.udemy.com/course/git-bash/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-Cr6A3JujZLtmMPqH6zAv7g&utm_medium=udemyads&utm_source=aff-campaign"> Udemy</a></h4>
 <h4>5. <a href="https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud"> Bitbucket</a></h4>
-<h4>5. <a href="http://up1.github.io/git-guide/index.html"> Simple Guide</a></h4>
+<h4>6. <a href="http://up1.github.io/git-guide/index.html"> Simple Guide</a></h4>
+<h4>7. <a href="https://www.codecademy.com/learn/learn-git?utm_source=pepperjam&utm_medium=affiliate&utm_term=214453&clickId=3885075036&pj_creativeid=8-12462&pj_publisherid=214453"> Codecademy</a></h4>
