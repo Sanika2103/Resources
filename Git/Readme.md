@@ -9,6 +9,6 @@
 
 <h3>Websites/Courses for Git</h3>
 <h4>1. <a href="https://www.cprime.com/resources/blog/the-7-best-git-tutorials-to-get-you-started-quickly/"> cprime</a></h4>
-<h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
+<h4>2. <a href="https://www.udemy.com/course/git-started-with-github/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-wUqjO2.WLweq3OV0u7IxHA&utm_medium=udemyads&utm_source=aff-campaign"> Udemy</a></h4>
 <h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
 <h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
