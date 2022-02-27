@@ -19,4 +19,4 @@
 <h4>1. <a href="https://about.gitlab.com/blog/"> GitLab</a></h4>
 <h4>2. <a href="https://www.gitkraken.com/blog"> Gitkraken</a></h4>
 <h4>3. <a href="https://www.atlassian.com/blog/git"> Atlassian</a></h4>
-<h4>4. <a href="https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fwww.reddit.com%2Fr%2Fgit%2F.rss"> Telusko</a></h4>
+<h4>4. <a href="https://feedly.com/i/subscription/feed%2Fhttp%3A%2F%2Fwww.reddit.com%2Fr%2Fgit%2F.rss"> Reddit</a></h4>
