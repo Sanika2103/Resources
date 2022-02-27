@@ -15,3 +15,8 @@
 <h4>5. <a href="https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud"> Bitbucket</a></h4>
 <h4>6. <a href="http://up1.github.io/git-guide/index.html"> Simple Guide</a></h4>
 <h4>7. <a href="https://www.codecademy.com/learn/learn-git?utm_source=pepperjam&utm_medium=affiliate&utm_term=214453&clickId=3885075036&pj_creativeid=8-12462&pj_publisherid=214453"> Codecademy</a></h4>
+<h3>Blogs</h3>
+<h4>1. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
+<h4>2. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
+<h4>3. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
+<h4>4. <a href="https://www.youtube.com/watch?v=WbwIoQYP6no"> Telusko</a></h4>
