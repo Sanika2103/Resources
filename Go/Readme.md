@@ -9,7 +9,7 @@
 
 <h3>Websites/Courses for Go</h3>
 <h4>1. <a href="https://go.dev/doc/"> Go Documentation</a></h4>
-<h4>1. <a href="https://go.dev/doc/effective_go"> Effective Go</a></h4>
-<h4>1. <a href="https://www.golang-book.com/books/intro"> Ebook</a></h4>
-<h4>1. <a href="https://golangbot.com/learn-golang-series/"> GolangBot</a></h4>
-<h4>1. <a href="https://www.youtube.com/watch?v=YS4e4q9oBaU"> FreeCodeCamp</a></h4>
+<h4>2. <a href="https://go.dev/doc/effective_go"> Effective Go</a></h4>
+<h4>3. <a href="https://www.golang-book.com/books/intro"> Ebook</a></h4>
+<h4>4. <a href="https://golangbot.com/learn-golang-series/"> GolangBot</a></h4>
+<h4>5. <a href="https://www.tutorialspoint.com/go/"> Tutorialspoint</a></h4>
