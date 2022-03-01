@@ -15,6 +15,6 @@
 <h4>5. <a href="https://www.tutorialspoint.com/go/"> Tutorialspoint</a></h4>
 <h3>Blogs</h3>
 <h4>1. <a href="https://blog.golang.org/"> Go Blog(official)</a></h4>
-<h4>1. <a href="https://go.dev/doc/"> Go Documentation</a></h4>
-<h4>1. <a href="https://go.dev/doc/"> Go Documentation</a></h4>
-<h4>1. <a href="https://go.dev/doc/"> Go Documentation</a></h4>
+<h4>1. <a href="https://dave.cheney.net/"> Dave Cheney</a></h4>
+<h4>1. <a href="https://awesome-go.com/"> Awesome Go</a></h4>
+<h4>1. <a href="https://golangbot.com/"> GolangBot</a></h4>
