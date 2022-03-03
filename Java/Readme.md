@@ -7,7 +7,7 @@
   <h4>5. <a href="https://www.youtube.com/watch?v=z44rbeDYB8o"> Great Learning</a></h4>
   <h4>6. <a href="https://www.youtube.com/watch?v=7yf6676xMhM"> Simplilearn</a></h4>
   <h3> Website/Courses for Java <h3>
-    <h4>4. <a href="https://www.youtube.com/watch?v=8cm1x4bC610"> Telusko</a></h4>
+    <h4>4. <a href="https://www.educative.io/courses/learn-java-from-scratch?affiliate_id=5073518643380224"> Educative</a></h4>
   <h4>4. <a href="https://www.youtube.com/watch?v=8cm1x4bC610"> Telusko</a></h4>
   <h4>4. <a href="https://www.youtube.com/watch?v=8cm1x4bC610"> Telusko</a></h4>
   <h4>4. <a href="https://www.youtube.com/watch?v=8cm1x4bC610"> Telusko</a></h4>
