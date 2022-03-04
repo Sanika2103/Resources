@@ -15,4 +15,5 @@
      <h4>6. <a href="https://codegym.cc/"> Codegym</a></h4>
     <h3> Practice Platforms </h3>
     <h4>1. <a href="https://www.hackerrank.com/domains/java"> Hackerrank</a></h4>
-  
+   <h4>2. <a href="https://www.geeksforgeeks.org/java/?ref=shm"> Geeks for Geeks</a></h4>
+    <h4>2. <a href="https://www.codechef.com/practice?page=0&limit=20&sort_by=difficulty_rating&sort_order=asc&search=&start_rating=0&end_rating=999"> Codechef</a></h4>
