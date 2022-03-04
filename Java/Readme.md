@@ -12,4 +12,6 @@
   <h4>3. <a href="https://docs.oracle.com/javase/tutorial/index.html"> Oracle</a></h4>
   <h4>4. <a href="https://www.sololearn.com/Course/Java/"> Sololearn</a></h4>
     <h4>5. <a href="https://examples.javacodegeeks.com/category/java-basics/"> JavaCodeGeeks</a></h4>
+    <h3> Practice Platforms </h3>
+    <h4>1. <a href="https://www.hackerrank.com/domains/java"> Oracle</a></h4>
   
