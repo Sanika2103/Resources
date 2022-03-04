@@ -18,3 +18,5 @@
    <h4>2. <a href="https://www.geeksforgeeks.org/java-programming-examples/"> Geeks for Geeks</a></h4>
    <h4>3. <a href="https://www.codechef.com/practice?page=0&limit=20&sort_by=difficulty_rating&sort_order=asc&search=&start_rating=0&end_rating=999"> Codechef</a></h4>
 <h4>4. <a href="https://www.w3resource.com/java-exercises/"> W3resource</a></h4>
+    <h4>5. <a href="https://codingbat.com/java"> CodingBat</a></h4>
+    <h4>6. <a href="https://www.javatpoint.com/java-programs"> Javatpoint</a></h4>
