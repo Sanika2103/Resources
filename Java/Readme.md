@@ -21,3 +21,5 @@
     <h4>5. <a href="https://codingbat.com/java"> CodingBat</a></h4>
     <h4>6. <a href="https://www.javatpoint.com/java-programs"> Javatpoint</a></h4>
     <h4>7. <a href="https://www.techgig.com/practice/java/introduction"> Techgig</a></h4>
+<h3> Blogs </h3>
+    <h4>5. <a href="https://codingbat.com/java"> CodingBat</a></h4>
