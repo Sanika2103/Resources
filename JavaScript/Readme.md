@@ -12,3 +12,6 @@
 <h4> 4. <a href="https://www.educative.io/courses/introduction-to-javascript-first-steps?affiliate_id=5073518643380224"> Educative</a></h4>
 <h4> 5. <a href="https://www.edx.org/course/javascript-introduction?source=aw&awc=6798_1646636359_11769a9024bc743d6a80f4a78c5ed995&utm_source=aw&utm_medium=affiliate_partner&utm_content=text-link&utm_term=631878_javarevisited"> Edx</a></h4>
 <h4> 6. <a href="https://www.w3schools.com/js/"> W3Schools</a></h4>
+
+<h3>Blogs</h3>
+<h4> 1. <a href=" "> CodewithHarry</a></h4>
