@@ -14,4 +14,4 @@
 <h4> 6. <a href="https://www.w3schools.com/js/"> W3Schools</a></h4>
 
 <h3>Blogs</h3>
-<h4> 1. <a href=" "> CodewithHarry</a></h4>
+<h4> 1. <a href="https://kentcdodds.com/blog"> Kent C. Dodds' Blog</a></h4>
