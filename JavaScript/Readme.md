@@ -15,4 +15,4 @@
 
 <h3>Blogs</h3>
 <h4> 1. <a href="https://kentcdodds.com/blog"> Kent C. Dodds' Blog</a></h4>
-<h4> 1. <a href="https://2ality.com/index.html "> 2ality</a></h4>
+<h4> 2. <a href="https://2ality.com/index.html "> 2ality</a></h4>
