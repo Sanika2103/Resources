@@ -16,3 +16,7 @@
 <h4>5. <a href="https://www.youtube.com/watch?v=aS__9RbCyHg"> Edureka</a></h4>
 
 <h3>Blogs</h3>
+<h4>1. <a href="https://android-developers.googleblog.com/"> Android Developers Blog</a></h4>
+<h4>2. <a href="https://www.androidauthority.com/"> Android Authority</a></h4>
+<h4>2. <a href="https://androidweekly.net/"> Android Weekly</a></h4>
+
