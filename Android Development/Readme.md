@@ -10,8 +10,8 @@
 
 <h3>Courses/Websites for Android Develpoment</h3>
 <h4>1. <a href="https://www.udemy.com/course/learn-android-application-development-y/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-mI9zsu5x9de3SXp3Qul_IQ&utm_medium=udemyads&utm_source=aff-campaign"> Udemy</a></h4>
-<h4>2. <a href="https://www.youtube.com/watch?v=aS__9RbCyHg"> Edureka</a></h4>
-<h4>3. <a href="https://www.youtube.com/watch?v=aS__9RbCyHg"> Edureka</a></h4>
+<h4>2. <a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development"> MyGreatlearning</a></h4>
+<h4>3. <a href="https://www.simplilearn.com/free-android-app-development-course-skillup"> Simplilearn</a></h4>
 <h4>4. <a href="https://www.youtube.com/watch?v=aS__9RbCyHg"> Edureka</a></h4>
 <h4>5. <a href="https://www.youtube.com/watch?v=aS__9RbCyHg"> Edureka</a></h4>
 
