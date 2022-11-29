@@ -13,7 +13,7 @@
 <h4>2. <a href="https://www.mygreatlearning.com/academy/learn-for-free/courses/android-application-development"> MyGreatlearning</a></h4>
 <h4>3. <a href="https://www.simplilearn.com/free-android-app-development-course-skillup"> Simplilearn</a></h4>
 <h4>4. <a href="https://www.youtube.com/watch?v=aS__9RbCyHg"> Edureka</a></h4>
-<h4>5. <a href="https://www.youtube.com/watch?v=aS__9RbCyHg"> Edureka</a></h4>
+
 
 <h3>Blogs</h3>
 <h4>1. <a href="https://android-developers.googleblog.com/"> Android Developers Blog</a></h4>
