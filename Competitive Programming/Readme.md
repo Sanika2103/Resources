@@ -7,16 +7,15 @@
  <h4> 5. <a href="https://www.youtube.com/watch?v=cOz-tREBg0A&list=PLQXZIFwMtjoxwO1Q46c15Aj63M-lSd8b7"> CodeChef</a></h4>
  <h4> 6. <a href="https://www.youtube.com/watch?v=aSG-NY-1Mxc&list=PLN4aKSfpk8TTSJFTgKEF4wBRaArugy0dU"> Code Beyond</a></h4>
 
-<h3>Courses/Websites for Blockchain</h3>
-<h4>1. <a href="https://cognitiveclass.ai/courses/blockchain-course/"> Cognitive Class</a></h4>
- <h4> 2. <a href="https://www.udemy.com/ethereum-and-solidity-the-complete-developers-guide/"> Udemy</a></h4>
- <h4>3. <a href="https://www.coursera.org/learn/blockchain-foundations-and-use-cases"> Coursera</a></h4>
- <h4>4. <a href="https://www.coursera.org/learn/blockchain-basics"> Coursera</a> </h4>
+<h3>Websites to practice Competitive Programming</h3>
+<h4>1. <a href="https://www.codechef.com/"> Codechef</a></h4>
+<h4>2. <a href="https://codeforces.com/"> Codeforces</a></h4>
+<h4>3. <a href="https://www.spoj.com/"> SPOJ</a> </h4>
   
   
 <h3>Blogs</h3>
 <h4>1. <a href="https://www.crypt0snews.com/"> CryptO's News</a></h4>
-  <h4>2. <a href="https://www.ibm.com/blogs/blockchain"> IBM</a></h4>
-  <h4>3. <a href="https://www.edureka.co/blog/category/blockchain/"> Edureka</a></h4>
-  <h4>4. <a href="https://blogs.oracle.com/blockchain/ "> Oracle</a></h4>
+<h4>2. <a href="https://www.ibm.com/blogs/blockchain"> IBM</a></h4>
+<h4>3. <a href="https://www.edureka.co/blog/category/blockchain/"> Edureka</a></h4>
+<h4>4. <a href="https://blogs.oracle.com/blockchain/ "> Oracle</a></h4>
 
