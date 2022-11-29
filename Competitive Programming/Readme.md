@@ -12,10 +12,9 @@
 <h4>2. <a href="https://codeforces.com/"> Codeforces</a></h4>
 <h4>3. <a href="https://www.spoj.com/"> SPOJ</a> </h4>
   
-  
 <h3>Blogs</h3>
-<h4>1. <a href="https://www.crypt0snews.com/"> CryptO's News</a></h4>
-<h4>2. <a href="https://www.ibm.com/blogs/blockchain"> IBM</a></h4>
-<h4>3. <a href="https://www.edureka.co/blog/category/blockchain/"> Edureka</a></h4>
-<h4>4. <a href="https://blogs.oracle.com/blockchain/ "> Oracle</a></h4>
+<h4>1. <a href="https://medium.com/the-aparoksha-blog/beginners-guide-to-competitive-programming-60300af1ee92"> Competitive Programming 2.0</a></h4>
+<h4>2. <a href="https://www.hackerearth.com/blog/competitive-programming/"> Hackerearth</a></h4>
+<h4>3. <a href="https://www.geeksforgeeks.org/what-are-the-best-resources-for-competitive-programming/"> GeeksforGeeks</a></h4>
+<h4>4. <a href="https://www.topcoder.com/community/competitive-programming/"> Topcoder</a></h4>
 
