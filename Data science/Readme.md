@@ -17,5 +17,7 @@
 
 <h3>Blogs</h3>
 <h4>1. <a href="http://fivethirtyeight.com/">FiveThirtyEight</a></h4>
-<h4>1. <a href="http://simplystatistics.org/">Simply Statistics</a></h4>
-<h4>1. <a href="http://101.datascience.community/">Data Science 101</a></h4>
+<h4>2. <a href="http://simplystatistics.org/">Simply Statistics</a></h4>
+<h4>3. <a href="http://101.datascience.community/">Data Science 101</a></h4>
+
+
