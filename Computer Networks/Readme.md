@@ -12,4 +12,6 @@
 <h4>4. <a href="https://www.techtarget.com/searchnetworking/definition/network"> Techtarget</a></h4>
 
 <h3>Blogs</h3>
-
+<h4>1. <a href="https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=4690158&q=site:https%3A%2F%2Fblogs.cisco.com%2Fnetworking%2Ffeed"> Cisco</a> </h4>
+<h4>2. <a href="https://www.feedspot.com/infiniterss.php?_src=feed_title&followfeedid=3966989&q=site:http%3A%2F%2Fwww.networkworld.com%2Findex.rss"> Network World</a> </h4>
+<h4>3. <a href="https://www.feedspot.com/infiniterss.php_src=feed_title&followfeedid=4690085&q=site:https%3A%2F%2Fwww.networkcomputing.com%2Ftaxonomy%2Fterm%2F11%2Fall%2Ffeed%3Ffull%3Dtrue%26ng_gateway_return%3Dtrue"> Network Computing</a> </h4>
