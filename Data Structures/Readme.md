@@ -14,14 +14,14 @@
   <h4>6. <a href="https://code.tutsplus.com/series/data-structures-succinctly-part-1--cms-551"> Envato Tuts</a></h4>
   
   <h3>Practice Platforms</h3>
-  <h4>1. <a href="https://www.hackerrank.com/domains/data-structures"> Abdul Baari</a> </h4>
-  <h4>2. <a href="https://leetcode.com/problemset/all/"> Abdul Baari</a></h4>
-  <h4>3. <a href="https://practice.geeksforgeeks.org/"> Abdul Baari</a></h4>
-  <h4>4. <a href="https://www.hackerearth.com/practice/data-structures/"> Abdul Baari</a> </h4>
+  <h4>1. <a href="https://www.hackerrank.com/domains/data-structures"> Hackerrank</a> </h4>
+  <h4>2. <a href="https://leetcode.com/problemset/all/"> Leetcode</a></h4>
+  <h4>3. <a href="https://practice.geeksforgeeks.org/"> GeeksforGeeks</a></h4>
+  <h4>4. <a href="https://www.hackerearth.com/practice/data-structures/"> Hackerearth</a> </h4>
   
 <h3>Blogs</h3>
-<h4>1. <a href="https://codecoda.com/en/blog/entry/understanding-data-structures"> Abdul Baari</a> </h4>
-  <h4>2. <a href="https://medium.com/omarelgabrys-blog/algorithms-data-structures-series-85ec94eb8aff"> Abdul Baari</a></h4>
-  <h4>3. <a href="https://www.codingninjas.com/blog/category/data-structures/"> Abdul Baari</a></h4>
- <h4> 4. <a href="https://www.mygreatlearning.com/blog/data-structures-and-algorithms-in-java/"> Abdul Baari</a> </h4>
+<h4>1. <a href="https://codecoda.com/en/blog/entry/understanding-data-structures"> Codecoda</a> </h4>
+  <h4>2. <a href="https://medium.com/omarelgabrys-blog/algorithms-data-structures-series-85ec94eb8aff"> Omar Elgabrys</a></h4>
+  <h4>3. <a href="https://www.codingninjas.com/blog/category/data-structures/"> Codingninjas</a></h4>
+ <h4> 4. <a href="https://www.mygreatlearning.com/blog/data-structures-and-algorithms-in-java/"> MyGreatLearning</a> </h4>
   
