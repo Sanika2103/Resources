@@ -12,6 +12,12 @@
 <h4>4.  <a href="https://www.javatpoint.com/java-oops-concepts"> Javatpoint</a> </h4>
 
 
+<h3>Blogs</h3>
+<h4>1. <a href="https://codecoda.com/en/blog/entry/object-oriented-programming"> Codecoda</a></h4>
+<h4>2. <a href="https://blog.knoldus.com/tag/oops/"> Knoldus</a></h4>
+<h4>3. <a href="https://blog.hubspot.com/website/object-oriented-programming"> Hubspot</a></h4>
+
+
 
 
 
